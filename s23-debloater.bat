@@ -122,7 +122,6 @@ adb shell pm disable-user com.samsung.storyservice
 adb shell pm disable-user com.sec.android.app.billing
 adb shell pm disable-user com.sec.android.app.chromecustomizations
 adb shell pm disable-user com.sec.android.app.desktoplauncher
-adb shell pm disable-user com.sec.android.app.dexonpc
 adb shell pm disable-user com.sec.android.app.magnifier
 adb shell pm disable-user com.sec.android.app.myfiles
 adb shell pm disable-user com.sec.android.app.quicktool
@@ -132,8 +131,6 @@ adb shell pm disable-user com.sec.android.app.wlantest
 adb shell pm disable-user com.sec.android.autodoodle.service
 adb shell pm disable-user com.sec.android.desktopmode.uiservice
 adb shell pm disable-user com.sec.android.easyMover.Agent
-adb shell pm disable-user com.sec.android.easyonehand
-adb shell pm disable-user com.sec.android.emergencylauncher
 adb shell pm disable-user com.sec.android.mimage.avatarstickers
 adb shell pm disable-user com.sec.android.widgetapp.easymodecontactswidget
 adb shell pm disable-user com.sec.android.widgetapp.webmanual
@@ -141,7 +138,5 @@ adb shell pm disable-user com.sec.epdgtestapp
 adb shell pm disable-user com.sec.location.nsflp2
 adb shell pm disable-user com.sec.mhs.smarttethering
 adb shell pm disable-user com.sec.spp.push
-adb shell pm disable-user com.swiftkey.swiftkeyconfigurator
-adb shell pm disable-user com.touchtype.swiftkey
 adb shell pm disable-user com.wsomacp
 adb shell pm disable-user de.axelspringer.yana.zeropage
