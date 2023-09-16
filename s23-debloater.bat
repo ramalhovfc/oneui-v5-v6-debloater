@@ -121,7 +121,6 @@ adb shell pm disable-user com.samsung.ssu
 adb shell pm disable-user com.samsung.storyservice
 adb shell pm disable-user com.sec.android.app.billing
 adb shell pm disable-user com.sec.android.app.chromecustomizations
-adb shell pm disable-user com.sec.android.app.desktoplauncher
 adb shell pm disable-user com.sec.android.app.magnifier
 adb shell pm disable-user com.sec.android.app.myfiles
 adb shell pm disable-user com.sec.android.app.quicktool
