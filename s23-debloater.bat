@@ -129,7 +129,6 @@ adb shell pm disable-user com.sec.android.app.safetyassurance
 adb shell pm disable-user com.sec.android.app.vepreload
 adb shell pm disable-user com.sec.android.app.wlantest
 adb shell pm disable-user com.sec.android.autodoodle.service
-adb shell pm disable-user com.sec.android.desktopmode.uiservice
 adb shell pm disable-user com.sec.android.easyMover.Agent
 adb shell pm disable-user com.sec.android.mimage.avatarstickers
 adb shell pm disable-user com.sec.android.widgetapp.easymodecontactswidget
