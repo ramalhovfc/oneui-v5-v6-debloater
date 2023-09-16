@@ -1,5 +1,5 @@
-# Samsung Galaxy S23 series debloater
-This is a debloating script for Samsung Galaxy S23 series.
+# Samsung Galaxy S23 series debloater (One UI 5.x compatible)
+This is a debloating script for Samsung Galaxy S23 series or any One UI 5.x device.
 It doesn't uninstall apps but disables them so if you find any feature missing you can revert it by using
 
 ```bash
