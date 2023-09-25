@@ -13,7 +13,6 @@ adb shell pm disable-user com.android.hotwordenrollment.okgoogle
 adb shell pm disable-user com.android.hotwordenrollment.xgoogle
 adb shell pm disable-user com.android.internal.systemui.onehanded.gestural
 adb shell pm disable-user com.android.managedprovisioning
-adb shell pm disable-user com.android.printspooler
 adb shell pm disable-user com.android.providers.partnerbookmarks
 adb shell pm disable-user com.android.sharedstoragebackup
 adb shell pm disable-user com.android.stk
@@ -37,7 +36,6 @@ adb shell pm disable-user com.google.android.gms.location.history
 adb shell pm disable-user com.google.android.gms.supervision
 adb shell pm disable-user com.google.android.onetimeinitializer
 adb shell pm disable-user com.google.android.partnersetup
-adb shell pm disable-user com.google.android.printservice.recommendation
 adb shell pm disable-user com.google.android.projection.gearhead
 adb shell pm disable-user com.google.android.syncadapters.calendar
 adb shell pm disable-user com.google.android.tts
