@@ -30,7 +30,6 @@ adb shell pm disable-user com.google.android.apps.turbo
 adb shell pm disable-user com.google.android.as
 adb shell pm disable-user com.google.android.as.oss
 adb shell pm disable-user com.google.android.cellbroadcastreceiver
-adb shell pm disable-user com.google.android.documentsui
 adb shell pm disable-user com.google.android.feedback
 adb shell pm disable-user com.google.android.gms.location.history
 adb shell pm disable-user com.google.android.gms.supervision
