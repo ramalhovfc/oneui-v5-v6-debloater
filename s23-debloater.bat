@@ -54,7 +54,6 @@ adb shell pm disable-user com.samsung.android.app.readingglass
 adb shell pm disable-user com.samsung.android.app.reminder
 adb shell pm disable-user com.samsung.android.app.routines
 adb shell pm disable-user com.samsung.android.app.settings.bixby
-adb shell pm disable-user com.samsung.android.app.sharelive
 adb shell pm disable-user com.samsung.android.app.taskedge
 adb shell pm disable-user com.samsung.android.app.watchmanagerstub
 adb shell pm disable-user com.samsung.android.appseparation
