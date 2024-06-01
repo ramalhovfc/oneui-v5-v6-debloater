@@ -134,3 +134,4 @@ adb shell pm disable-user com.sec.mhs.smarttethering
 adb shell pm disable-user com.sec.spp.push
 adb shell pm disable-user com.wsomacp
 adb shell pm disable-user de.axelspringer.yana.zeropage
+adb shell pm disable-user com.instagram.android
