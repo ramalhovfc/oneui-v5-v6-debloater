@@ -121,7 +121,6 @@ adb shell pm disable-user com.sec.android.app.magnifier
 adb shell pm disable-user com.sec.android.app.myfiles
 adb shell pm disable-user com.sec.android.app.quicktool
 adb shell pm disable-user com.sec.android.app.safetyassurance
-adb shell pm disable-user com.sec.android.app.vepreload
 adb shell pm disable-user com.sec.android.app.wlantest
 adb shell pm disable-user com.sec.android.autodoodle.service
 adb shell pm disable-user com.sec.android.easyMover.Agent
