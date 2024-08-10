@@ -36,7 +36,6 @@ adb shell pm disable-user com.google.android.gms.supervision
 adb shell pm disable-user com.google.android.onetimeinitializer
 adb shell pm disable-user com.google.android.partnersetup
 adb shell pm disable-user com.google.android.projection.gearhead
-adb shell pm disable-user com.google.android.syncadapters.calendar
 adb shell pm disable-user com.google.android.tts
 adb shell pm disable-user com.google.ar.core
 adb shell pm disable-user com.google.audio.hearing.visualization.accessibility.scribe
@@ -95,7 +94,6 @@ adb shell pm disable-user com.samsung.android.peripheral.framework
 adb shell pm disable-user com.samsung.android.rubin.app
 adb shell pm disable-user com.samsung.android.samsungpass
 adb shell pm disable-user com.samsung.android.samsungpassautofill
-adb shell pm disable-user com.samsung.android.scloud
 adb shell pm disable-user com.samsung.android.service.livedrawing
 adb shell pm disable-user com.samsung.android.service.peoplestripe
 adb shell pm disable-user com.samsung.android.service.stplatform
@@ -134,3 +132,18 @@ adb shell pm disable-user com.sec.spp.push
 adb shell pm disable-user com.wsomacp
 adb shell pm disable-user de.axelspringer.yana.zeropage
 adb shell pm disable-user com.instagram.android
+
+adb shell pm disable-user com.google.android.apps.googleassistant
+adb shell pm disable-user com.google.android.adservices.api
+adb shell pm disable-user com.google.android.ondevicepersonalization.services
+
+adb shell pm disable-user com.aura.oobe.samsung.gl
+adb shell pm disable-user com.qualcomm.location
+adb shell pm disable-user com.samsung.android.mobileservice
+adb shell pm disable-user com.sec.android.daemonapp
+adb shell pm disable-user com.samsung.android.app.parentalcare
+adb shell pm disable-user com.samsung.android.rampart
+adb shell pm disable-user com.samsung.android.sm.devicesecurity
+adb shell pm disable-user com.sec.android.diagmonagent
+adb shell pm disable-user com.samsung.android.coldwalletservice
+adb shell pm disable-user com.samsung.android.mapsagent
