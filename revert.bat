@@ -36,7 +36,6 @@ adb shell pm enable com.google.android.gms.supervision
 adb shell pm enable com.google.android.onetimeinitializer
 adb shell pm enable com.google.android.partnersetup
 adb shell pm enable com.google.android.projection.gearhead
-adb shell pm enable com.google.android.syncadapters.calendar
 adb shell pm enable com.google.android.tts
 adb shell pm enable com.google.ar.core
 adb shell pm enable com.google.audio.hearing.visualization.accessibility.scribe
@@ -95,7 +94,6 @@ adb shell pm enable com.samsung.android.peripheral.framework
 adb shell pm enable com.samsung.android.rubin.app
 adb shell pm enable com.samsung.android.samsungpass
 adb shell pm enable com.samsung.android.samsungpassautofill
-adb shell pm enable com.samsung.android.scloud
 adb shell pm enable com.samsung.android.service.livedrawing
 adb shell pm enable com.samsung.android.service.peoplestripe
 adb shell pm enable com.samsung.android.service.stplatform
@@ -121,7 +119,6 @@ adb shell pm enable com.sec.android.app.magnifier
 adb shell pm enable com.sec.android.app.myfiles
 adb shell pm enable com.sec.android.app.quicktool
 adb shell pm enable com.sec.android.app.safetyassurance
-adb shell pm enable com.sec.android.app.vepreload
 adb shell pm enable com.sec.android.app.wlantest
 adb shell pm enable com.sec.android.autodoodle.service
 adb shell pm enable com.sec.android.easyMover.Agent
@@ -134,3 +131,19 @@ adb shell pm enable com.sec.mhs.smarttethering
 adb shell pm enable com.sec.spp.push
 adb shell pm enable com.wsomacp
 adb shell pm enable de.axelspringer.yana.zeropage
+adb shell pm enable com.instagram.android
+
+adb shell pm enable com.google.android.apps.googleassistant
+adb shell pm enable com.google.android.adservices.api
+adb shell pm enable com.google.android.ondevicepersonalization.services
+
+adb shell pm enable com.aura.oobe.samsung.gl
+adb shell pm enable com.qualcomm.location
+adb shell pm enable com.samsung.android.mobileservice
+adb shell pm enable com.sec.android.daemonapp
+adb shell pm enable com.samsung.android.app.parentalcare
+adb shell pm enable com.samsung.android.rampart
+adb shell pm enable com.samsung.android.sm.devicesecurity
+adb shell pm enable com.sec.android.diagmonagent
+adb shell pm enable com.samsung.android.coldwalletservice
+adb shell pm enable com.samsung.android.mapsagent
