@@ -145,5 +145,4 @@ adb shell pm enable com.samsung.android.app.parentalcare
 adb shell pm enable com.samsung.android.rampart
 adb shell pm enable com.samsung.android.sm.devicesecurity
 adb shell pm enable com.sec.android.diagmonagent
-adb shell pm enable com.samsung.android.coldwalletservice
 adb shell pm enable com.samsung.android.mapsagent
