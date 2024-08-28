@@ -1,5 +1,5 @@
-# Samsung Galaxy S23 series debloater (One UI 5.x and 6.x compatible)
-This is a debloating script for Samsung Galaxy S23 series or any One UI 5.x device.
+# One UI 5.x and 6.x system debloater
+This is a debloating script for Samsung devices using One UI 5.x or 6.x.
 It doesn't uninstall apps but disables them so if you find any feature missing you can revert it by using
 
 ```bash
@@ -18,8 +18,8 @@ Install [Android Debug Bridge (adb)](https://developer.android.com/studio/comman
   sudo apt install adb
 ```
 
-Rename *s23-debloater.cmd* to *s23-debloater.sh* and run it:
+Rename *oneui-debloater.cmd* to *oneui-debloater.sh* and run it:
 
 ```bash
-  bash './s23-debloater.sh'
+  bash './oneui-debloater.sh'
 ```
