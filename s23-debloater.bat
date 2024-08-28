@@ -144,5 +144,4 @@ adb shell pm disable-user com.sec.android.daemonapp
 adb shell pm disable-user com.samsung.android.app.parentalcare
 adb shell pm disable-user com.samsung.android.rampart
 adb shell pm disable-user com.samsung.android.sm.devicesecurity
-adb shell pm disable-user com.sec.android.diagmonagent
 adb shell pm disable-user com.samsung.android.mapsagent
