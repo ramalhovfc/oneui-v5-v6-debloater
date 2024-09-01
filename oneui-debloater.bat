@@ -37,7 +37,6 @@ adb shell pm disable-user com.google.android.onetimeinitializer
 adb shell pm disable-user com.google.android.partnersetup
 adb shell pm disable-user com.google.android.projection.gearhead
 adb shell pm disable-user com.google.android.tts
-adb shell pm disable-user com.google.ar.core
 adb shell pm disable-user com.google.audio.hearing.visualization.accessibility.scribe
 adb shell pm disable-user com.hiya.star
 adb shell pm disable-user com.knox.vpn.proxyhandler

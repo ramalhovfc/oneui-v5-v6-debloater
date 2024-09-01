@@ -37,7 +37,6 @@ adb shell pm enable com.google.android.onetimeinitializer
 adb shell pm enable com.google.android.partnersetup
 adb shell pm enable com.google.android.projection.gearhead
 adb shell pm enable com.google.android.tts
-adb shell pm enable com.google.ar.core
 adb shell pm enable com.google.audio.hearing.visualization.accessibility.scribe
 adb shell pm enable com.hiya.star
 adb shell pm enable com.knox.vpn.proxyhandler
