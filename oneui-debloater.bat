@@ -131,11 +131,9 @@ adb shell pm disable-user com.sec.spp.push
 adb shell pm disable-user com.wsomacp
 adb shell pm disable-user de.axelspringer.yana.zeropage
 adb shell pm disable-user com.instagram.android
-
 adb shell pm disable-user com.google.android.apps.googleassistant
 adb shell pm disable-user com.google.android.adservices.api
 adb shell pm disable-user com.google.android.ondevicepersonalization.services
-
 adb shell pm disable-user com.aura.oobe.samsung.gl
 adb shell pm disable-user com.qualcomm.location
 adb shell pm disable-user com.samsung.android.mobileservice
@@ -144,3 +142,5 @@ adb shell pm disable-user com.samsung.android.app.parentalcare
 adb shell pm disable-user com.samsung.android.rampart
 adb shell pm disable-user com.samsung.android.sm.devicesecurity
 adb shell pm disable-user com.samsung.android.mapsagent
+adb shell pm disable-user com.samsung.android.samsungpositioning
+adb shell pm disable-user com.google.android.printservice.recommendation

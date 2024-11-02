@@ -131,11 +131,9 @@ adb shell pm enable com.sec.spp.push
 adb shell pm enable com.wsomacp
 adb shell pm enable de.axelspringer.yana.zeropage
 adb shell pm enable com.instagram.android
-
 adb shell pm enable com.google.android.apps.googleassistant
 adb shell pm enable com.google.android.adservices.api
 adb shell pm enable com.google.android.ondevicepersonalization.services
-
 adb shell pm enable com.aura.oobe.samsung.gl
 adb shell pm enable com.qualcomm.location
 adb shell pm enable com.samsung.android.mobileservice
@@ -144,3 +142,5 @@ adb shell pm enable com.samsung.android.app.parentalcare
 adb shell pm enable com.samsung.android.rampart
 adb shell pm enable com.samsung.android.sm.devicesecurity
 adb shell pm enable com.samsung.android.mapsagent
+adb shell pm enable com.samsung.android.samsungpositioning
+adb shell pm enable com.google.android.printservice.recommendation
